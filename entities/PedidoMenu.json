@@ -1,0 +1,9 @@
+{
+  "id": "3337e951-7ddd-4285-bf12-8360396a5735",
+  "name": "PedidoMenu",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

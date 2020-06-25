@@ -1,0 +1,53 @@
+{
+  "id": "6f46dc04-8bed-46f2-9a17-5d641bdcea47",
+  "name": "Pedido",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "setPedido",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0e81ee23-6fce-4bee-b2e4-94a1e6355d01",
+          "required": false,
+          "dataType": "@PedidoMenu",
+          "name": "PedidoMenu",
+          "value": "$PedidoMenu",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Servidos $PedidoMenu.original ¿Desea algún descuento?",
+            "Listo $PedidoMenu.original ¿Desea algún descuento?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "b0a56332-3af0-45f5-902f-4223c89f3188",
+  "name": "menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "speech": "estos son los menús que ofrecemos"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 8 soles",
+          "imageUrl": "https://t2.rg.ltmcdn.com/es/images/5/7/4/lomo_saltado_peruano_11475_600.jpg",
+          "buttons": [
+            {
+              "text": "lomo saltado"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 8 soles",
+          "imageUrl": "https://www.recetips.com/uploads/recetas_ce89af3170d309eea9addbf67a3bc639.jpg",
+          "buttons": [
+            {
+              "text": "arroz con pollo"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 8 soles",
+          "imageUrl": "https://1.bp.blogspot.com/-qoWCLSBJA1w/TjovPxdx_MI/AAAAAAAABJc/Lr1suQZqcBc/s1600/Captura.JPG",
+          "buttons": [
+            {
+              "text": "tallarin con apanado"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 8 soles",
+          "imageUrl": "https://cde.peru.com//ima/0/0/8/1/7/817759/380x300/olluquito-carne.jpg",
+          "buttons": [
+            {
+              "text": "olluco con carne"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 8 soles",
+          "imageUrl": "https://ml2bs2nikehn.i.optimole.com/M24H5M8.GkDh~3e272/w:700/h:465/q:auto/https://decomidaperuana.com/wp-content/uploads/2019/10/locro-de-zapallo-receta.jpg",
+          "buttons": [
+            {
+              "text": "locro de zapallo"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

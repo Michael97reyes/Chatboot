@@ -1,0 +1,67 @@
+{
+  "id": "cd992477-3b34-4043-a99b-959c3e03c297",
+  "name": "bebidas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "speech": "estas son las bebidas que ofrecemos"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 6 soles",
+          "subtitle": "inka kola",
+          "imageUrl": "https://oechsle.vteximg.com.br/arquivos/ids/1352310-500-500/image-73dde211b29746fe83a77680195020aa.jpg?v\u003d637123965838900000"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 7 soles",
+          "subtitle": "chicha morada",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/66/f9/75/pizzerias-presto.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "precio: 7 soles",
+          "subtitle": "limonada",
+          "imageUrl": "https://www.rebanando.com/media/dieta-de-la-limonada-4_crop.jpg/rh/limonada.jpg"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

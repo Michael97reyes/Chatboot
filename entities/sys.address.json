@@ -1,0 +1,9 @@
+{
+  "id": "4e946779-5529-44f4-a4e6-8d5805cca658",
+  "name": "sys.address",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ba66a3db-c512-4ac7-8c38-57d0bb8acd85",
+    "data": [
+      {
+        "text": "ordenar mas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70060a80-5562-4a7d-a652-b36caceea271",
+    "data": [
+      {
+        "text": "bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "270e9b89-8525-4714-9427-5fe07d93b6d5",
+    "data": [
+      {
+        "text": "frankzgovia53@gmail.com",
+        "alias": "UserEmail",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccd3b947-43a3-4a14-8e34-f50c34b1e3f5",
+    "data": [
+      {
+        "text": "jr lima 321",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "452cfee6-cd83-48cb-b0c5-7414df0056bf",
+    "data": [
+      {
+        "text": "francisco@gmail.com",
+        "alias": "UserEmail",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1783d82-42db-4c2f-a42f-0762dcbcab32",
+    "data": [
+      {
+        "text": "jr lima 123",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b814ef2f-1b86-4711-a89c-5981d1e5b0a6",
+    "data": [
+      {
+        "text": "977828132",
+        "alias": "UserPhone",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38bead42-d74a-47e9-ad09-5eaaf2e14171",
+    "data": [
+      {
+        "text": "73144550",
+        "alias": "UserAny",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "742df438-1ea8-4795-80e5-30a8bb7ba1ae",
+    "data": [
+      {
+        "text": "francisco",
+        "alias": "UserPerson",
+        "meta": "@sys.person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4756ab1e-dd4f-4cf4-89c2-fc505f8157cb",
+    "data": [
+      {
+        "text": "Av. Mariscal Castilla N° 12121",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76ca75cb-c846-496c-80dc-3c2d47d1f64a",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " direccion es ",
+        "userDefined": false
+      },
+      {
+        "text": "Av. Mariscal Castilla N° 12121",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f42c1ae-318b-419e-8d18-229ea96ec205",
+    "data": [
+      {
+        "text": "brayanajulinho@gmail.com",
+        "alias": "UserEmail",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b893c99b-3cf3-4ff0-9aef-a5d0500daab9",
+    "data": [
+      {
+        "text": "Mi email es ",
+        "userDefined": false
+      },
+      {
+        "text": "brayanjulinho@gmail.com",
+        "alias": "UserEmail",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3bdfdf0-2583-44a0-8c0a-f699a042d022",
+    "data": [
+      {
+        "text": "mi telefono ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "944783747",
+        "alias": "UserPhone",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36ec6ffc-70e2-4315-8f7b-362eb08b3da1",
+    "data": [
+      {
+        "text": "944783747",
+        "alias": "UserPhone",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a7d36d-fd26-464b-942c-e4ad182b0ad2",
+    "data": [
+      {
+        "text": "Brayan Condor Aguilar",
+        "alias": "UserPerson",
+        "meta": "@sys.person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14aceaca-dbd1-4d1f-a983-8eec603cb70b",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre ",
+        "userDefined": false
+      },
+      {
+        "text": "Brayan Condor Aguilar",
+        "alias": "UserPerson",
+        "meta": "@sys.person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6de6c3a-222a-412c-a1ea-35c97caf0913",
+    "data": [
+      {
+        "text": "70076403",
+        "alias": "UserAny",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0887f9b3-500d-4f5b-a260-92a29cbc572c",
+    "data": [
+      {
+        "text": "mi dni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "70076403",
+        "alias": "UserAny",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

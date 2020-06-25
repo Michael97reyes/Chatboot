@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0234a828-0885-478b-83eb-8284b118093f",
+    "data": [
+      {
+        "text": "limonada",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0793283-93a1-4251-9c7a-210dfc088589",
+    "data": [
+      {
+        "text": "chicha morada",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b44958e-8ac6-472c-bdc4-e2532cedddcd",
+    "data": [
+      {
+        "text": "inka kola",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b6efdee-8531-48c7-bf2c-19c7ee879839",
+    "data": [
+      {
+        "text": "locro de zapallo",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae80d798-8486-4f17-9979-b140ea9c9230",
+    "data": [
+      {
+        "text": "olluco con carne",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97228e08-04cf-4a41-aec2-3f8f3f3bc763",
+    "data": [
+      {
+        "text": "tallarin con apanado",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ece24c20-4f2c-4654-87d6-400fa69249be",
+    "data": [
+      {
+        "text": "arroz con pollo",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db46cb36-06c1-45a4-a3d7-b544bb3a6db3",
+    "data": [
+      {
+        "text": "lomo saltado",
+        "alias": "datosMenu",
+        "meta": "@datosMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

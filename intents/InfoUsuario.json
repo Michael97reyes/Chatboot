@@ -1,0 +1,136 @@
+{
+  "id": "7c7d1f20-66a3-4a3a-80b6-afc8ce9473fe",
+  "name": "InfoUsuario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e6f60c16-6d35-4013-be90-cd404f459401",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "UserAny",
+          "value": "$UserAny",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cual es tu DNI ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "be9482bb-71b8-4fd4-af70-67b164a7861d",
+          "required": true,
+          "dataType": "@sys.person",
+          "name": "UserPerson",
+          "value": "$UserPerson",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cual es tu Nombre y Apellidos?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "eae40a54-1cfb-4f73-b9b5-c43023b66efa",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "UserPhone",
+          "value": "$UserPhone",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cual es tu numero de telefono?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "0a360bb1-2066-4b21-8d8a-201036403a3d",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "UserEmail",
+          "value": "$UserEmail",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cual es tu email?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "72b51713-b197-40d6-a399-e732a3cfe01e",
+          "required": true,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿cual es su direccion?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "es",
+          "condition": "",
+          "title": "Gracias por su compra con nosotros ¿como fue la atencion?",
+          "replies": [
+            "bueno",
+            "regular",
+            "malo"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "5b89f670-4f1c-46ea-9c77-39225b81317e",
+    "data": [
+      {
+        "text": "me da ",
+        "userDefined": false
+      },
+      {
+        "text": "dos lomos saltados",
+        "alias": "PedidoMenu",
+        "meta": "@PedidoMenu",
+        "userDefined": true
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "dos arroz chaufas",
+        "alias": "PedidoMenu",
+        "meta": "@PedidoMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e9ecf0f-013f-48a3-bae9-6490a220dd6b",
+    "data": [
+      {
+        "text": "me sirve ",
+        "userDefined": false
+      },
+      {
+        "text": "un lomo saltado",
+        "alias": "PedidoMenu",
+        "meta": "@PedidoMenu",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "dos arroz chaufas",
+        "alias": "PedidoMenu",
+        "meta": "@PedidoMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d45b6249-20dc-453f-966d-40c4111887c0",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un arroz chaufa",
+        "alias": "PedidoMenu",
+        "meta": "@PedidoMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e74f7ad8-ca42-4c71-974f-01fc50ff8a7c",
+    "data": [
+      {
+        "text": "me da ",
+        "userDefined": false
+      },
+      {
+        "text": "un lomo saltado",
+        "alias": "PedidoMenu",
+        "meta": "@PedidoMenu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

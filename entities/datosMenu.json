@@ -1,0 +1,9 @@
+{
+  "id": "2f614eb6-9399-4bb5-82d8-38647dfee991",
+  "name": "datosMenu",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
